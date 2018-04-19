@@ -1,5 +1,5 @@
 # maven-cn
-启用了国内aliyun-nexus镜像的maven容器镜像
+启用了国内aliyun-nexus代理的maven:alpine容器镜像
 
 [![DockerHub Badge](http://dockeri.co/image/zhangsean/maven-cn)](https://hub.docker.com/r/zhangsean/maven-cn/)
 
